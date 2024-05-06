@@ -1,3 +1,6 @@
+# Hamza Haque
+# August 2022
+
 import os
 import requests
 import datetime
